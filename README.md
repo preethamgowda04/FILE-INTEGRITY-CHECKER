@@ -1,1 +1,15 @@
 # FILE-INTEGRITY-CHECKER
+
+**COMPANY**: CODTECH IT SOLUTIONS  
+
+**NAME**: PREETHAM P GOWDA
+
+**INTERN ID**: CTIS3264
+
+**DOMAIN**: CYBER SECURITY & ETHICAL HACKING
+
+**DURATION**: 6 WEEKS
+
+**MENTOR**: NEELA SANTHOSH KUMAR
+
+## **File Integrity Checker** is a security tool that helps ensure important files on a system are not changed without permission. In simple terms, it keeps an eye on files and alerts us if anything unusual happens. This is especially important in cybersecurity, where even a small unauthorized change can lead to serious security issues. The idea behind this project is straightforward. When the program runs for the first time, it creates a baseline by generating cryptographic hash values (such as SHA-256 or MD5) for selected files. These hash values act like digital fingerprints. Every time the program is run again, it recalculates the hashes and compares them with the stored baseline. If the values don’t match, it means the file has been modified, deleted, or replaced. This File Integrity Checker is designed to be lightweight, easy to understand, and effective. It helps detect unauthorized file changes caused by malware, accidental edits, or insider threats. By identifying these changes early, users or administrators can take quick action and prevent further damage to the system. The project includes several important features. It can generate and store baseline hash values, monitor files and directories for changes, and clearly report any integrity violations. The tool can also be automated to run at regular intervals, making it suitable for continuous monitoring. It is flexible enough to handle multiple files and directories, which makes it useful for both small and larger systems. This project was developed with learning and clarity as the main goals. It is beginner-friendly and focuses on core cybersecurity concepts such as hashing, file system monitoring, and secure coding practices. The code structure is kept simple and modular so that it can be easily understood, modified, or extended in the future. Possible enhancements include real-time monitoring, email notifications, encrypted storage of hash values, or integration with other security tools. From a cybersecurity point of view, file integrity monitoring is a fundamental defense mechanism used in intrusion detection systems and security compliance standards. Working on this project provides hands-on experience and helps connect theoretical knowledge with real-world security practices. Apart from security concepts, this project also strengthens general programming skills such as file handling, error handling, logical thinking, and working with data structures. It can be adapted to run on personal computers, servers, or cloud environments.Overall, this File Integrity Checker project demonstrates a practical understanding of cybersecurity fundamentals and secure system design. It serves as a strong portfolio project for internships, showing the ability to build a meaningful security tool and clearly document its purpose and functionality.
